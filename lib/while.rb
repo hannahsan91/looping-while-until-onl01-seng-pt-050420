@@ -7,5 +7,3 @@ def using_while
   end
   
 end
-
-puts "Wingardium Leviosa" #{levitation_force}
